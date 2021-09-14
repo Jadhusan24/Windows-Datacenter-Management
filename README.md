@@ -11,6 +11,11 @@ Windows Datacenter Management
   [Document](/DHCP) \
   [Article]()
 
+## DNS
+  Basic Implementation of DNS. \
+  [Document](/DNS) \
+  [Article]()
+
 ## HyperV
   Basic Implementation of HyperV. \
   [Document](/HyperV) \
