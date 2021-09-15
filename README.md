@@ -9,7 +9,7 @@ Windows Datacenter Management
 ## DHCP
   Basic Implementation of DHCP. \
   [Document](/DHCP) \
-  [Article]()
+  [Article](https://jadhusan-s.medium.com/microsoft-dhcp-server-4dc1bde42e82?source=user_profile---------2----------------------------)
 
 ## DNS
   Basic Implementation of DNS. \
