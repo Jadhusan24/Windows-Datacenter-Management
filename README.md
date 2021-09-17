@@ -14,7 +14,7 @@ Windows Datacenter Management
 ## DNS
   Basic Implementation of DNS. \
   [Document](/DNS) \
-  [Article](https://jadhusan-s.medium.com/active-directory-domain-services-30c46c20401d)
+  [Article](https://jadhusan-s.medium.com/windows-dns-server-cbff2d5db97b)
 
 ## HyperV
   Basic Implementation of HyperV. \
