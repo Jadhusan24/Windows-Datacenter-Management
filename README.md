@@ -13,7 +13,7 @@ Windows Datacenter Management
 
 ## DHCP
   Implementation of DHCP. \
-  [Document](/DHCP) \
+  [Document](/DHCP) 
   
   Configuring DHCP Server \     
   [Article](https://jadhusan-s.medium.com/microsoft-dhcp-server-4dc1bde42e82)    
@@ -27,7 +27,7 @@ Windows Datacenter Management
 
 ## DNS
   Implementation of DNS. \
-  [Document](/DNS) \
+  [Document](/DNS) 
   
   DNS Architecture \
   [Article](https://jadhusan-s.medium.com/microsoft-dns-server-f39beb44aad0)
