@@ -6,23 +6,23 @@ Windows Datacenter Management Installation and Configuration
   [Document](/ADDS) 
 
   Install and Configure Domain Controllers. \
-  [Article](https://jadhusan-s.medium.com/active-directory-domain-services-30c46c20401d) 
+  [Article](https://blog.jadhusan.com/install-and-configure-domain-controllers/) 
   
   Managing User and Computers in Windows Server. \
-  [Article](https://jadhusan-s.medium.com/active-directory-domain-services-2-2e5c9f675cf1) 
+  [Article](https://blog.jadhusan.com/managing-user-and-computers/) 
 
 ## DHCP
   Implementation of DHCP. \
   [Document](/DHCP) 
   
   Configuring DHCP Server \     
-  [Article](https://jadhusan-s.medium.com/microsoft-dhcp-server-4dc1bde42e82)    
+  [Article](https://blog.jadhusan.com/configuring-dhcp-server/)    
   
   Managing and Migrating DHCP server    \
-  [Article](https://jadhusan-s.medium.com/microsoft-dhcp-server-2-6efca4bd92a0)  
+  [Article](https://blog.jadhusan.com/managing-nd-migrating-dhcp-server/)  
   
   Deploying Highly-available DHCP Infrastructures  \
-  [Article](https://jadhusan-s.medium.com/microsoft-dhcp-server-3-9aab14cc4e8a) 
+  [Article](https://blog.jadhusan.com/highly-available-dhcp/) 
 
 
 ## DNS
@@ -30,16 +30,16 @@ Windows Datacenter Management Installation and Configuration
   [Document](/DNS) 
   
   DNS Architecture \
-  [Article](https://jadhusan-s.medium.com/microsoft-dns-server-f39beb44aad0)
+  [Article](https://blog.jadhusan.com/dns-architecture/)
   
   DNS Records/DNSSEC — DANE \
-  [Article](https://jadhusan-s.medium.com/microsoft-dns-server-2-a93e015d12e2)
+  [Article](https://blog.jadhusan.com/dns-records/)
   
-  DNS High Availability and Traffic Management Policies \
-  [Article](https://jadhusan-s.medium.com/microsoft-dns-server-3-1a8120af0e1e) 
+  DNSSEC \
+  [Article](https://blog.jadhusan.com/dnssec/)
   
   DNS Server Security, Monitoring and Auditing  \
-  [Article](https://jadhusan-s.medium.com/microsoft-dns-server-4-cc673040a9f5)
+  [Article](https://blog.jadhusan.com/dns-monitoring-and-auditing/)
 
 
 ## HyperV
@@ -47,4 +47,4 @@ Windows Datacenter Management Installation and Configuration
   [Document](/HyperV)
   
   Hyper-V configurations \
-  [Article](https://jadhusan-s.medium.com/microsoft-hyper-v-773eab284004)
+  [Article](https://blog.jadhusan.com/hyper-v-configurations/)
