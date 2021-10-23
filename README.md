@@ -24,7 +24,6 @@ Windows Datacenter Management Installation and Configuration
   Deploying Highly-available DHCP Infrastructures  \
   [Article](https://blog.jadhusan.com/highly-available-dhcp/) 
 
-
 ## DNS
   Implementation of DNS \
   [Document](/DNS) 
