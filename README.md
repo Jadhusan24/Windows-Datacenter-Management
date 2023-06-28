@@ -6,39 +6,39 @@ Windows Datacenter Management Installation and Configuration
   [Document](/ADDS) 
 
   Install and Configure Domain Controllers \
-  [Article](https://blog.jadhusan.com/install-and-configure-domain-controllers/) 
+  [Article](https://blog.jadhusan.com/windows-server-installing-and-configuring-domain-controllers/) 
   
   Managing User and Computers in Windows Server \
-  [Article](https://blog.jadhusan.com/managing-user-and-computers/) 
+  [Article](https://blog.jadhusan.com/windows-server-managing-user-and-computers/) 
 
 ## DHCP
   Implementation of DHCP \
   [Document](/DHCP) 
   
   Configuring DHCP Server     
-  [Article](https://blog.jadhusan.com/configuring-dhcp-server/)    
+  [Article](https://blog.jadhusan.com/windows-server-how-to-configure-dhcp-server/)    
   
   Managing and Migrating DHCP server    \
-  [Article](https://blog.jadhusan.com/managing-nd-migrating-dhcp-server/)  
+  [Article](https://blog.jadhusan.com/windows-server-managing-and-migrating-dhcp-server/)  
   
   Deploying Highly-available DHCP Infrastructures  \
-  [Article](https://blog.jadhusan.com/highly-available-dhcp/) 
+  [Article](https://blog.jadhusan.com/windows-server-deploying-dhcp-high-availability/) 
 
 ## DNS
   Implementation of DNS \
   [Document](/DNS) 
   
   DNS Architecture \
-  [Article](https://blog.jadhusan.com/dns-architecture/)
+  [Article](https://blog.jadhusan.com/windows-server-deep-dive-on-dns-architecture/)
   
   DNS Records/DNSSEC — DANE \
-  [Article](https://blog.jadhusan.com/dns-records/)
+  [Article](https://blog.jadhusan.com/windows-server-what-is-dns-records/)
   
   DNSSEC \
-  [Article](https://blog.jadhusan.com/dnssec/)
+  [Article](https://blog.jadhusan.com/windows-server-what-is-dnssec/)
   
   DNS Server Security, Monitoring and Auditing  \
-  [Article](https://blog.jadhusan.com/dns-monitoring-and-auditing/)
+  [Article](https://blog.jadhusan.com/windows-server-monitoring-and-auditing-dns-server/)
 
 
 ## HyperV
@@ -46,6 +46,6 @@ Windows Datacenter Management Installation and Configuration
   [Document](/HyperV)
   
   Hyper-V configurations \
-  [Article](https://blog.jadhusan.com/hyper-v-configurations/)
+  [Article](https://blog.jadhusan.com/windows-server-how-to-configure-hyper-v/)
 
 
